@@ -98,3 +98,12 @@ form{
     margin-top: 50px;
     margin-left: 400px;
 }
+.footer{
+    display: flex;
+    height: 100px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(29, 6, 38);
+    align-items: center;
+    justify-content: center;
+}
