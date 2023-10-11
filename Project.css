@@ -124,7 +124,7 @@ font-size: 30px;
 .parent1{
 display: flex;
 position: relative; 
-margin-left: 200px;
+margin-left: 190px;
 width: 400px;
 height: 470px;
 max-width: 400px;
@@ -189,7 +189,7 @@ margin-top: -40px;
 .parent2{
 display: flex;
 position: relative; 
-margin-left: 120px;
+margin-left: 112px;
 width: 400px;
 height: 470px;
 max-width: 400px;
