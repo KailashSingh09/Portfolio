@@ -76,13 +76,7 @@ label{
 }
 input{
     height: 35px;
-    width: 450px;
-    padding-left: 12px;
-    font-size: 11px;
-}
-#msg{
-    height: 160px;
-    width: 450px;
+    width: 460px;
     padding-left: 12px;
     font-size: 11px;
 }
