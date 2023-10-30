@@ -137,7 +137,6 @@ overflow: hidden;
 margin-top: 70px;
 }
 .parent1::before{
-
 position: absolute;
 width: 170%;
 height: 170%;
