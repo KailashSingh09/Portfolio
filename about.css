@@ -19,8 +19,8 @@ nav{
 }
 nav ul{display: flex;
     justify-content: space-evenly;
-    font-size: 18px;
-    
+    font-size: 19px;
+    font-weight: 700;
 }
 nav li{
     list-style: none;
